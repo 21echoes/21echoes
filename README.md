@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+My name is David Kettler, and I am a musician and software engineer.
+
+🧘 I currently work at [Calm](https://www.calm.com/) as a Staff Software Engineer, making the world happier and healthier.
+
+🎵 I also make music with [Wide Out](https://www.thewideroute.com/) and develop [music software](https://www.thewideroute.com/software/), primarily for the [norns sound computer](https://monome.org/#norns).
 
 <!--
 **21echoes/21echoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
